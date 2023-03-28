@@ -12,3 +12,4 @@ This project is for learning purposes only
 - Bun - Package manager
 - elysia
 - Kafka.js
+- TypeScript
