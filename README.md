@@ -1,4 +1,4 @@
-# Simple Kafka Product
+# Simple Kafka Node Project
 
 This project is for learning purposes only
 
